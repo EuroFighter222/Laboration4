@@ -1,0 +1,2 @@
+D:\Project\Visual Studio\Обход в ширину\Debug\Обход в ширину.exe
+D:\Project\Visual Studio\Обход в ширину\Debug\Обход в ширину.pdb
